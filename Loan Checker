@@ -19,8 +19,8 @@ else:
 #     IF credit score >= 700 AND
 #        annual income >= 30000 AND
 #        years at current job >= 2
-#         OUTPUT "Loan Approved"
+#         OUTPUT "Result: Loan Approved"
 #     ELSE
-#         OUTPUT "Loan Denied"
+#         OUTPUT "Result: Loan Denied"
 #     END IF
 # END
